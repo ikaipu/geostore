@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>755298372509-ht2ff0keds47iu5ik0v166ombjouchfl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.755298372509-ht2ff0keds47iu5ik0v166ombjouchfl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC85Bk3SY3-wBJaeVcYmDZ-SLomMblE9ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>755298372509</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.geofire</string>
+	<key>PROJECT_ID</key>
+	<string>geostore-3072e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>geostore-3072e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:755298372509:ios:24a994c1e94c4e74</string>
+	<key>DATABASE_URL</key>
+	<string>https://geostore-3072e.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "755298372509",
+    "firebase_url": "https://geostore-3072e.firebaseio.com",
+    "project_id": "geostore-3072e",
+    "storage_bucket": "geostore-3072e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755298372509:android:24a994c1e94c4e74",
+        "android_client_info": {
+          "package_name": "com.geofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755298372509-p87gc2hm0bdsds9itvnk4tejnourpaog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_MxWA9r1sPFKsijqT-RTCrPk1_hJoK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
